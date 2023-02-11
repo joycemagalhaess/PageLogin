@@ -1,0 +1,94 @@
+.Container{
+    width: 100%;
+    margin-left: 15%;
+    margin-top: 10%;
+    
+
+}
+
+.titulo h2{
+    font-size: 20px; 
+    font-weight: 500; 
+}
+.titulo h1{
+    font-size: 30px;  
+    font-weight: 700;
+    margin-top: -2%;
+}
+
+.email{
+    margin-top: 6%;
+}
+
+.email p{
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.email input{
+    width: 50%;
+    height: 40px;
+    background-color: white;
+    border: 1px solid #E8E8E8;
+    border-radius: 5px;
+    color: black;
+    padding: 10px;
+    outline: 0;
+}
+.senha{
+    margin-top: 6%;
+}
+
+.senha p{
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.senha input{
+    width: 50%;
+    height: 40px;
+    background-color: white;
+    border: 1px solid #E8E8E8;
+    border-radius: 5px;
+    color: black;
+    padding: 10px;
+    outline: 0;
+}
+
+.EsqueciSenha {
+    color: #2B6CB0;
+    margin-top: 2%;
+    margin-left: 30%;
+    font-size: 15px;
+    font-weight: 500;
+
+}
+.ContainerButton{
+    display: flex;
+    flex-direction: column;
+    margin-top: 6%;
+}
+
+.ContainerButton button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 40px;
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 3%;
+    cursor: pointer;
+    background-color: #1A202C;
+    border: none;
+    border-radius: 5px;
+
+    
+    
+}
+
+
+
+
+
+

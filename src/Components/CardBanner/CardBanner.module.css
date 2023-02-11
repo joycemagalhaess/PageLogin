@@ -1,0 +1,9 @@
+.Container {
+    width: 50%;
+    background-color: #F7FAFC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15.7%;
+
+}
